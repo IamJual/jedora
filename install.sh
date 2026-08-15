@@ -16,7 +16,7 @@ sudo dnf install -y \
     @fonts \
     @hardware-support \
     @multimedia \
-    @networkmanager-submodule \
+    @networkmanager-submodules \
     @printing
 
 echo
