@@ -21,7 +21,7 @@ sudo dnf install -y \
 
 echo
 echo "=== Enabling Hyprland repository ==="
-sudo dnf copr enable -y lionheartp/hyprland
+sudo dnf copr enable -y lionheartp/Hyprland
 
 echo
 echo "=== Installing Hyprland desktop ==="
